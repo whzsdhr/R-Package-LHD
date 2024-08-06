@@ -1,1 +1,1 @@
-This is the .tar.gz file of R package LHD with Version 1.4.0
+This folder contains the files of R package LHD with Version 1.4.0
